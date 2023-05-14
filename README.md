@@ -83,7 +83,7 @@ Gunakan salah satu format berikut di dalam file `.txt`:
 site.com/wp-login.php#user@pass
 site.com/wp-login.php;user;pass
 site.com/wp-login.php:user:pass
-
+```
 ---
 
 ### **Quick Start Guide**
